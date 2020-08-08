@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+}
+
+.board {
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.cell {
+  width: 10px;
+  height: 10px;
+  border: 1px solid gray;
+}
+
+.alive {
+  background-color: black;
+}
+
+button {
+  margin: 1rem;
+}
+
+.button-bar {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
+}
+
+header{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
