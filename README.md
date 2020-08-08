@@ -5,3 +5,5 @@ Conway's Game of Life is a Turing-complete automaton that displays emergent prop
 The game state logic is covered by unit tests and developed using the TDD process.
 
 The UI is created using React and deployed to serverless, static content using Vercel.
+
+You can try it out [here](https://game-xi.vercel.app/).
